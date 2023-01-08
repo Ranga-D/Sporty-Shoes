@@ -1,0 +1,12 @@
+com\api\sportyShoes\model\PurchaseReport.class
+com\api\sportyShoes\exceptionHandler\BusinessException.class
+com\api\sportyShoes\config\SwaggerConfig.class
+com\api\sportyShoes\controller\CRUDController.class
+com\api\sportyShoes\controller\SearchController.class
+com\api\sportyShoes\repository\ShoesRepository.class
+com\api\sportyShoes\service\impl\SportyShoesServiceImpl.class
+com\api\sportyShoes\SportyShoes.class
+com\api\sportyShoes\model\Shoe.class
+com\api\sportyShoes\repository\PurchaseReportRepository.class
+com\api\sportyShoes\config\SpringSecurityConfig.class
+com\api\sportyShoes\service\SportyShoesService.class
